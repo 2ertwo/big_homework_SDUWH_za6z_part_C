@@ -1,9 +1,10 @@
 # big_homework_SDUWH_za6z_part_C
 大家好呀！这里是山东大学（威海）重案六组，组员是白锦帆，孙阳，李骁峰，宫晨峰，这回给大家带来的是51单片机求助机-山大威海大一上作业C展示视频，欢迎大家批评指正。
 # 分p介绍
-p1中我们展示了单片机求助机的效果
-p2中我们对蜂鸣器和esp32-s2进行了有关讲解
-p3中我们对LCD12864代码部分进行了讲解
+https://www.bilibili.com/video/BV1GS4y1u72V/<br>
+p1中我们展示了单片机求助机的效果<br>
+p2中我们对蜂鸣器和esp32-s2进行了有关讲解<br>
+p3中我们对LCD12864代码部分进行了讲解<br>
 # 往期链接
 第一期：https://www.bilibili.com/video/BV15F411e7fp<br>
 第二期：https://www.bilibili.com/video/BV15F411e7fp<br>
